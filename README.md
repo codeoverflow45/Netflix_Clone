@@ -1,4 +1,4 @@
-# REACT APP DEMO
+# React App Demo
 https://netflix-clone-75cfb.web.app/
 
 # Getting Started with Create React App
