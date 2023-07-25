@@ -1,5 +1,5 @@
 # React App Demo[
-https://netflix-clone-75cfb.firebaseapp.co
+https://netflix-clone-75cfb.web.app
 
 # Getting Started with Create React App
 
